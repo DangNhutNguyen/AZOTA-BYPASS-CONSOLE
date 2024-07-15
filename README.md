@@ -2,8 +2,8 @@
 - Please, these tools are only for education and I have cut off some things, don't use this for the AZOTA EXAM or anything else!
 - I didn't have time to program the .exe tools, but there are some that you can do to take the ByPass from the Azota Exam
 - These tools are used for Windows 11 and the setting of the display is 1920x1080 / 100% show
-- Run the main.py in CMD or Terminal (Recommend)
-![image](https://github.com/user-attachments/assets/4573d6d1-93cc-4859-8ee7-eda35a1c2716)
+- Run the paste.py in CMD or Terminal (Recommend)
+![image](https://github.com/user-attachments/assets/c842c5f8-ffde-4503-9b8f-8bc248132f4e)
 - You will get that
 ![image](https://github.com/user-attachments/assets/389ac833-b0b2-4f92-b658-a5965255aa2f)
 - Select all the licenses, Run the script then Open the AZOTA Exam as full view
