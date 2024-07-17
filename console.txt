@@ -21,4 +21,4 @@ const eventTypes = [
 removeAllEventListeners(window, eventTypes);
 removeAllEventListeners(document, eventTypes);
 
-console.log("Removed all");
+console.log("Removed all - Done by NGUYEN HUYNH DANG NHUT");
